@@ -5,4 +5,4 @@ git clone https://github.com/MrDevilEx/Free.git
 
 cd Free
 
-python RANDOM.py
+python Fuck.py
